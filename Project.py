@@ -21,3 +21,6 @@ for line in text:
 # Affichage des résultats sous forme des Tuples
 for key in list(d.keys()): 
        print("(",key, ",", d[key],")")
+
+### Hello
+print('wordCount')
